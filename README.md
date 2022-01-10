@@ -20,3 +20,12 @@ This application does not work as it is intended and it is full of bugs.
 It was one of the first times I used PHP.
 It due to it being a course project I had to uploaded in time. 
 Hence I wasn't able restart.
+
+## How to use it ? 
+
+You can login using the following credentials and URL
+```
+URL: http://dijkstra.ug.bcc.bilkent.edu.tr/~emre.caniklioglu/page/welcome.php
+Username: Ali
+Password: C101
+```
